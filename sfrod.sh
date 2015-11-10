@@ -1,0 +1,1 @@
+php.exe app/console router:debug $*

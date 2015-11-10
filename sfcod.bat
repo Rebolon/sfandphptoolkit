@@ -1,0 +1,1 @@
+php app/console container:debug %*
