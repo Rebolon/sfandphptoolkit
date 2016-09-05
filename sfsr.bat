@@ -1,1 +1,1 @@
-php app/console server:run 127.0.0.1:80 %*
+php app/console server:run 0.0.0.0:80 -vvv %*
