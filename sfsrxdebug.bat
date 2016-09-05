@@ -1,0 +1,1 @@
+pathToYourPhPWithXDebug\php app/console server:run 0.0.0.0:81 -vvv %*
