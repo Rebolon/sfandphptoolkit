@@ -1,1 +1,1 @@
-php app/console twig:debug %*
+php bin/console twig:debug %*

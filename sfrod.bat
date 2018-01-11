@@ -1,1 +1,1 @@
-php app/console router:debug %*
+php.exe bin/console router:debug %*

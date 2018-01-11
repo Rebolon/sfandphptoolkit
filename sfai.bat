@@ -1,1 +1,1 @@
-php app/console assets:install %*
+php.exe bin/console assets:install %*

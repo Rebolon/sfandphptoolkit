@@ -1,1 +1,0 @@
-php.exe app/console container:debug $*

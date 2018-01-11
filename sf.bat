@@ -1,1 +1,1 @@
-php app/console %*
+php.exe bin/console %*

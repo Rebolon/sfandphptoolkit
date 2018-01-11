@@ -1,1 +1,1 @@
-php app/console cache:clear %*
+php.exe bin/console cache:clear %*

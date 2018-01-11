@@ -1,1 +1,1 @@
-php app/console container:debug %*
+php.exe bin/console container:debug %*
